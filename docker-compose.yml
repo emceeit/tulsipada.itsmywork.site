@@ -3,7 +3,7 @@
 # Visit: http://localhost:3000 for initial setup
 # Database: MySQL (use hostname "db" in Gitea setup wizard)
 
-version: "3"
+version: "4"
 
 networks:
   gitea:
